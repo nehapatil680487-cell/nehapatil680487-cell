@@ -2,22 +2,22 @@
 
 ### 💻 Java Full Stack Developer | AI & Deep Learning Enthusiast
 
-🌱 Currently learning **Spring Boot, Hibernate, React, Cloud Computing, and Deep Learning**
+ Currently learning **Spring Boot, Hibernate, React, Cloud Computing, and Deep Learning**
 
-🚀 Passionate about **Web Development, Artificial Intelligence, and Software Engineering**
+ Passionate about **Web Development, Artificial Intelligence, and Software Engineering**
 
-🎓 B.Tech Computer Science Engineering Student
+ B.Tech Computer Science Engineering Student
 
 ---
 
 ## 👩‍💻 About Me
 
-* 💻 Java Full Stack Developer
-* 🌱 Learning Spring Boot, Hibernate, React, and REST APIs
-* 🤖 Interested in Artificial Intelligence and Deep Learning
-* 🫁 Working on a Lung Disease Detection System using Deep Learning
-* 🔬 Exploring AI applications in Healthcare Technology
-* 🎯 Goal: Become a Full Stack Java Developer and AI Engineer
+*  Java Full Stack Developer
+*  Learning Spring Boot, Hibernate, React, and REST APIs
+*  Interested in Artificial Intelligence and Deep Learning
+*  Working on a Lung Disease Detection System using Deep Learning
+*  Exploring AI applications in Healthcare Technology
+*  Goal: Become a Full Stack Java Developer and AI Engineer
 
 ---
 
@@ -58,20 +58,20 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🫁 Lung Disease Detection Using Deep Learning
+###  Lung Disease Detection Using Deep Learning
 
 A healthcare-focused AI system developed to detect Pneumonia using multiple medical data sources.
 
 #### Key Features
 
-* 📸 Chest X-Ray Image Analysis
-* 🩸 Blood Parameter Evaluation
-* 💨 Oxygen Saturation (SpO₂) Monitoring
-* 🤖 Deep Learning-Based Prediction
-* 📊 Multi-Source Medical Data Integration
-* 🏥 Early Pneumonia Detection Support
+*  Chest X-Ray Image Analysis
+*  Blood Parameter Evaluation
+*  Oxygen Saturation (SpO₂) Monitoring
+*  Deep Learning-Based Prediction
+*  Multi-Source Medical Data Integration
+*  Early Pneumonia Detection Support
 
 #### Technologies Used
 
@@ -83,7 +83,7 @@ A healthcare-focused AI system developed to detect Pneumonia using multiple medi
 
 ---
 
-### 🎬 Spring Boot Movie API
+### Spring Boot Movie API
 
 REST API application for Movie CRUD operations using Spring Boot and MySQL.
 
@@ -99,13 +99,13 @@ Course Management System supporting Create, Read, Update, and Delete operations.
 
 ---
 
-### 💼 Internship Backend Project
+###  Internship Backend Project
 
 Backend application developed during internship for enterprise-level application development and API implementation.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehapatil680487-cell\&show_icons=true)
 
@@ -113,7 +113,7 @@ Backend application developed during internship for enterprise-level application
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 ### LinkedIn
 
@@ -125,11 +125,11 @@ https://github.com/nehapatil680487-cell
 
 ---
 
-## 💡 Quote
+##  Quote
 
 "Learning never stops. Every project is an opportunity to build, improve, and innovate."
 
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 
 
 <!--
