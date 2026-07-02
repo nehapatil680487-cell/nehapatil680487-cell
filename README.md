@@ -1,6 +1,6 @@
-# Hi 👋, I'm Neha Patil
+# Hi , I'm Neha Patil
 
-### 💻 Java Full Stack Developer | AI & Deep Learning Enthusiast
+###  Java Full Stack Developer | AI & Deep Learning Enthusiast
 
  Currently learning **Spring Boot, Hibernate, React, Cloud Computing, and Deep Learning**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 *  Java Full Stack Developer
 *  Learning Spring Boot, Hibernate, React, and REST APIs
@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming Languages
 
@@ -91,7 +91,7 @@ REST API application for Movie CRUD operations using Spring Boot and MySQL.
 
 ---
 
-### 📚 Course Management System
+###  Course Management System
 
 Course Management System supporting Create, Read, Update, and Delete operations.
 
