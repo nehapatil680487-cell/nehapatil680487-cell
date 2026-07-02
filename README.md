@@ -27,7 +27,7 @@
 
 * Java
 * Python
-* JavaScript
+* C#
 * SQL
 
 ### Frontend Technologies
