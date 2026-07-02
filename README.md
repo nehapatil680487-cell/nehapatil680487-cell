@@ -1,6 +1,6 @@
 # Hi , I'm Neha Patil
 
-###  Java Full Stack Developer | AI & Deep Learning Enthusiast
+###  Aspiring Java Full Stack Developer | AI & Deep Learning Enthusiast
 
  Currently learning **Spring Boot, Hibernate, React, Cloud Computing, and Deep Learning**
 
