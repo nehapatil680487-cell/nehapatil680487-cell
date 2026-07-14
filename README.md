@@ -1,161 +1,112 @@
+<h1 align="center">Hi 👋, I'm Neha Patil</h1>
+<h3 align="center">Aspiring Java Full Stack Developer | AI & Deep Learning Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nehapatil680487-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nehapatil680487-cell&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nehapatil680487-cell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=nehapatil680487-cell&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-# Hi , I'm Neha Patil
-
-###  Aspiring Java Full Stack Developer | AI & Deep Learning Enthusiast
-
- Currently learning **Spring Boot, Hibernate, React, Cloud Computing, and Deep Learning**
-
- Passionate about **Web Development, Artificial Intelligence, and Software Engineering**
-
- B.Tech Computer Science Engineering Student
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;AI+%26+Deep+Learning+Enthusiast;Spring+Boot+%7C+React+%7C+Hibernate;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
-*  Java Full Stack Developer
-*  Learning Spring Boot, Hibernate, React, and REST APIs
-*  Interested in Artificial Intelligence and Deep Learning
-*  Working on a Lung Disease Detection System using Deep Learning
-*  Exploring AI applications in Healthcare Technology
-*  Goal: Become a Full Stack Java Developer and AI Engineer
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Aspiring **Java Full Stack Developer**
+- 🌱 Currently learning **Spring Boot, Hibernate, React, Cloud Computing**
+- 🤖 Interested in **Artificial Intelligence & Deep Learning**
+- 🫁 Working on **Lung Disease Detection using Deep Learning**
+- 🎯 Goal: Become a **Java Full Stack Developer & AI Engineer**
 
 ---
 
-##  Tech Stack
+## 🚀 Tech Stack
 
 ### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
-* Java
-* Python
-* C#
-* SQL
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Frontend Technologies
-
-* HTML5
-* CSS3
-* React
-
-### Backend Technologies
-
-* Spring Boot
-* Hibernate
-* JPA
-* JDBC
-* REST APIs
+### Backend
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
 ### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* MySQL
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Eclipse IDE
-
----
-
-##  Featured Projects
-
-###  Lung Disease Detection Using Deep Learning
-
-A healthcare-focused AI system developed to detect Pneumonia using multiple medical data sources.
-
-#### Key Features
-
-*  Chest X-Ray Image Analysis
-*  Blood Parameter Evaluation
-*  Oxygen Saturation (SpO₂) Monitoring
-*  Deep Learning-Based Prediction
-*  Multi-Source Medical Data Integration
-*  Early Pneumonia Detection Support
-
-#### Technologies Used
-
-* Python
-* Deep Learning
-* Machine Learning
-* Medical Image Processing
-* Data Analytics
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
 
-### Spring Boot Movie API
+# 📊 GitHub Stats
 
-REST API application for Movie CRUD operations using Spring Boot and MySQL.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehapatil680487-cell&show_icons=true&theme=tokyonight&hide_border=true)
 
-**Tech Stack:** Spring Boot, Java, MySQL, REST APIs
+![GitHub Streak](https://streak-stats.demolab.com?user=nehapatil680487-cell&theme=tokyonight&hide_border=true)
 
----
-
-###  Course Management System
-
-Course Management System supporting Create, Read, Update, and Delete operations.
-
-**Tech Stack:** Spring Boot, Hibernate, JPA, MySQL
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehapatil680487-cell&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-###  Internship Backend Project
+## 🚀 Featured Projects
 
-Backend application developed during internship for enterprise-level application development and API implementation.
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nehapatil680487-cell\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nehapatil680487-cell\&layout=compact)
+### 🫁 Lung Disease Detection Using Deep Learning
+- Chest X-Ray Analysis
+- Blood Parameter Prediction
+- Oxygen Saturation Prediction
+- Deep Learning Based Diagnosis
+- Python • TensorFlow • Keras
 
 ---
 
-##  Connect With Me
-
-### LinkedIn
-
-https://www.linkedin.com/in/neha-patil-32a778378/
-
-### GitHub
-
-https://github.com/nehapatil680487-cell
+### 🎬 Spring Boot Movie API
+- REST API
+- CRUD Operations
+- MySQL Integration
+- Spring Boot
 
 ---
 
-##  Quote
+### 📚 Course Management System
+- CRUD Operations
+- Spring Boot
+- Hibernate
+- JPA
+- MySQL
 
-"Learning never stops. Every project is an opportunity to build, improve, and innovate."
+---
 
- Thanks for visiting my profile!
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
-<!--
-**nehapatil680487-cell/nehapatil680487-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/nehapatil680487-cell)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Quote
+
+> **"Learning never stops. Every project is an opportunity to build, improve, and innovate."**
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
