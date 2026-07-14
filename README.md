@@ -167,7 +167,7 @@ Java • Spring Boot • REST API
 <a href="https://www.linkedin.com/in/neha-patil-32a778378/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Neha%20Patil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+<br>
 <a href="https://github.com/nehapatil680487-cell" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-nehapatil680487--cell-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
