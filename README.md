@@ -95,9 +95,9 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://www.linkedin.com/in/neha-patil-32a778378/))
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/nehapatil680487-cell)
+[![GitHub](https://github.com/nehapatil680487-cell/nehapatil680487-cell/)
 
 ---
 
