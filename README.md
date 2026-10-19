@@ -2,49 +2,44 @@
 
 **Aspiring Java Full Stack Developer | Computer Science Engineering Student**
 
-I am a B.Tech Computer Science Engineering student interested in building
-practical software applications and learning modern backend technologies.
+I am a B.Tech Computer Science Engineering student interested in software
+development and backend technologies. I am currently building my skills in
+Java and the Spring ecosystem.
 
 ## About Me
 
 - B.Tech Computer Science Engineering student
 - Aspiring Java Full Stack Developer
-- Currently learning Spring, Spring Boot, Hibernate and React
-- Interested in Artificial Intelligence and Deep Learning
-- Currently working on a multimodal Pneumonia Detection project
-- Interested in developing scalable and practical software solutions
+- Learning Spring, Spring Boot and Hibernate
+- Practicing Data Structures and Algorithms
+- Interested in developing practical web applications
+- Exploring frontend technologies such as React
 
 ## Technical Skills
 
 **Languages:**  
-Java, Python, C#, SQL
+Java, Python(Basics), C#, SQL
 
 **Frontend:**  
 HTML, CSS, React
 
 **Backend:**  
-Spring, Spring Boot, Hibernate, JDBC, REST APIs
+Spring, Spring Boot, Hibernate, JDBC, REST APIs(Basics)
 
 **Databases:**  
 MySQL, PostgreSQL, SQLite
 
-**Machine Learning:**  
-TensorFlow, Keras, Scikit-learn, NumPy, Pandas, OpenCV
-
 **Tools:**  
-Git, GitHub, VS Code, IntelliJ IDEA, Eclipse, Postman
+Git, GitHub, IntelliJ IDEA, Eclipse, VS Code, Postman
 
 ## Projects
 
 ### Pneumonia Detection System
 
-A multimodal healthcare screening project that analyzes:
+A final-year project developed to explore the use of software and data
+processing techniques for pneumonia screening.
 
-- Chest X-ray images
-- Blood parameters
-- Oxygen-related measurements
-
-**Technologies:** Python, TensorFlow, Keras, Streamlit, FastAPI, SQLite
+**Technologies:** Python, Streamlit, FastAPI, TensorFlow, Keras, SQLite
 
 ### Spring Boot Movie API
 
@@ -54,13 +49,15 @@ A REST API application implementing CRUD operations.
 
 ### Course Management System
 
-A backend application for managing course-related data with CRUD operations.
+A backend application for managing course-related information using CRUD
+operations.
 
 **Technologies:** Java, Spring Boot, Hibernate, JPA, MySQL
 
 ### Internship Project
 
-Worked on backend development and web application features during internship.
+Worked on web application development and backend-related tasks during
+internship.
 
 **Technologies:** C#, ASP.NET, SQL Server, HTML, CSS, JavaScript
 
@@ -71,11 +68,7 @@ Worked on backend development and web application features during internship.
 - REST API Development
 - React
 - Data Structures and Algorithms
-- Cloud Technologies
-
-## GitHub
-
-I use GitHub to share my projects, practice code, and track my development journey.
+- Backend Development
 
 ## Connect With Me
 
